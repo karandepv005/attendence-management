@@ -1,0 +1,9 @@
+TITLE :- "Attendence Management"
+
+MIS : 141603005
+
+NAME : PRIYANKA VIKRAM KARANDE.
+
+	Atendence Management project is implemented in 'C' language, have two sections. One is Student Section and another is Staff . In Student Section MIS ID, first name, middle name ane last name of student get registered for attendence. Staff can enroll new student member view it and take the attendence. MIS which is already registered is not acceptable it will returns already exists. In student section the student can check his/her attendence by entering MIS no. The student alsocsn check for the attendence sheet for all students and number of lectures.One can check for dates where lecturs are taken.
+	Another section is Staff, in which staff can enroll students and take the attendence, one can delete or modify all the details of students. Also one can clear all the attendence and start for the new attendence. Attendence can be taken only of registered/enrolled members.
+one can unenroll students from the list, one can modify attendence for late comers etc.
