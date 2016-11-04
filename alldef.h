@@ -3,7 +3,7 @@
  *
  * This code performs various operations mainly used while taking attendance.
  *
- * Copyright (C) 2016 Priyanka V. Karande.
+ * Copyright (C) 2017 Priyanka V. Karande.
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU Lesser General Public License as published by
